@@ -23,6 +23,6 @@ function minCostToFormRope(a) {
   document.getElementById("result").textContent = cost;
 }
 
-document.getElementById('form').addEventListener('click',minCostToFormRope)
+document.getElementById('dfdf').addEventListener('click',minCostToFormRope)
 
 
